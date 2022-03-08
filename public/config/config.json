@@ -1,0 +1,17 @@
+{
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xe7fca8732b7bd1a53a91e0845ea06232084fd308",
+  "NETWORK": {
+    "NAME": "Avalanche FUJI C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "CryptoDonkeys",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTRADE",
+  "MARKETPLACE_LINK": "https://testnets.nftrade.com/assets/fuji/0xe7fca8732b7bd1a53a91e0845ea06232084fd308",
+  "SHOW_BACKGROUND": true
+}
